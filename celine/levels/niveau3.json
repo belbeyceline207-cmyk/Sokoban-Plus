@@ -1,0 +1,10 @@
+{
+  "nom": "SansSolution",
+  "energieInitiale": 15,
+  "grille": [
+    "#######",
+    "#@o# .#",
+    "#  X  #",
+    "#######"
+  ]
+}
